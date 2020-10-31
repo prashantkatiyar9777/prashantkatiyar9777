@@ -97,6 +97,3 @@
 <a href="https://www.linkedin.com/in/vishesh-mittal-9551a4199/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24" />
-</p>
