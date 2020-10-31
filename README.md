@@ -97,7 +97,3 @@
 <a href="https://twitter.com/Katiyar9777" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/prashant-milan-katiyar/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
-
-
-[![](https://data.jsdelivr.com/v1/package/npm/emoji-datasource-facebook/badge)](https://www.jsdelivr.com/package/npm/emoji-datasource-facebook)
-
