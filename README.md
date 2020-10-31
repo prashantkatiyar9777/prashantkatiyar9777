@@ -22,6 +22,8 @@
 [![Prashant's github stats secondary](https://github-readme-stats.vercel.app/api?username=IIITiansNetwork)](https://github.com/IIITiansNetwork)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkatiyar9777)](https://github.com/prashantkatiyar9777/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IIITiansNetwork)](https://github.com/IIITiansNetwork/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IIITians-Network)](https://github.com/IIITians-Network/github-readme-stats)
+
 
 <br />
 <hr/>
