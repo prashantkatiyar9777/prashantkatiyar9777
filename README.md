@@ -22,7 +22,6 @@
 [![Prashant's github stats secondary](https://github-readme-stats.vercel.app/api?username=IIITiansNetwork)](https://github.com/IIITiansNetwork)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkatiyar9777)](https://github.com/prashantkatiyar9777/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IIITiansNetwork)](https://github.com/IIITiansNetwork/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IIITians-Network)](https://github.com/IIITians-Network/github-readme-stats)
 
 
 <br />
@@ -93,9 +92,9 @@
 
 <p align="center">
 
-<a href="https://www.facebook.com/elemento24" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.instagram.com/elemento.24/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://twitter.com/Vishesh30493930" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/vishesh-mittal-9551a4199/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.facebook.com/prashantkatiyar9777" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.instagram.com/k.prashant__/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/Katiyar9777" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/prashant-milan-katiyar/" target="_blank"><img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
 
