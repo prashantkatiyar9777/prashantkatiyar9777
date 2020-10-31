@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Entreprenureship, Robotics Process Automation, IoT applications, Github Actions**
 
-- 📫 Reach me out at **manishprivet@protonmail.com** or any of the social media links below
+- 📫 Contact me at **prashantkatiyar9777@gmail.com** or any of the social media links below
 
 - 🧘 I believe **I can create big ideas, but for implementation I've to build and lead a team.**
 
@@ -19,9 +19,9 @@
 <hr/>
 
 [![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantkatiyar9777)](https://github.com/prashantkatiyar9777)
-
+[![Prashant's github stats secondary](https://github-readme-stats.vercel.app/api?username=IIITiansNetwork)](https://github.com/IIITiansNetwork)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkatiyar9777)](https://github.com/prashantkatiyar9777/github-readme-stats)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IIITiansNetwork)](https://github.com/IIITiansNetwork/github-readme-stats)
 
 <br />
 <hr/>
