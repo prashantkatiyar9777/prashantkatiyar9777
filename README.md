@@ -20,7 +20,7 @@
 
 [![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashantkatiyar9777)](https://github.com/prashantkatiyar9777)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkatiyar9777=compact)](https://github.com/prashantkatiyar9777)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkatiyar9777)](https://github.com/prashantkatiyar9777/github-readme-stats)
 
 
 <br />
